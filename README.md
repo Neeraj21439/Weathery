@@ -47,7 +47,7 @@ npm install
 
 # Start development server
 npm run dev
-
+```
 
 ## 🔑 Setup API Key  
 
@@ -55,7 +55,7 @@ npm run dev
 2. Create a `.env` file in the root directory  
 3. Add the following:  
 
-```env
+```env```
 VITE_WEATHER_API_KEY=your_api_key_here
 📸 Screenshots
 <p align="center"> <img src="https://via.placeholder.com/800x400.png?text=WeatherApp+Screenshot" alt="Weathery Screenshot" /> </p>
