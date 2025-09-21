@@ -57,8 +57,12 @@ npm run dev
 
 ```env```
 VITE_WEATHER_API_KEY=your_api_key_here
+
 📸 Screenshots
-<p align="center"> <img src="https://via.placeholder.com/800x400.png?text=WeatherApp+Screenshot" alt="Weathery Screenshot" /> </p>
+<p align="center">
+  <img width="720" height="380" alt="Screenshot (182)" src="https://github.com/user-attachments/assets/2450a945-efc6-4a4b-b23c-862767c4c362" />
+
+</p>
 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
