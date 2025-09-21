@@ -47,3 +47,29 @@ npm install
 
 # Start development server
 npm run dev
+
+
+## 🔑 Setup API Key  
+
+1. Get your free API key from [OpenWeather](https://openweathermap.org/api)  
+2. Create a `.env` file in the root directory  
+3. Add the following:  
+
+```env
+VITE_WEATHER_API_KEY=your_api_key_here
+📸 Screenshots
+<p align="center"> <img src="https://via.placeholder.com/800x400.png?text=WeatherApp+Screenshot" alt="Weathery Screenshot" /> </p>
+🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork this repo and submit a PR.
+
+📜 License
+
+This project is licensed under the MIT License.
+
+🌟 Support
+
+If you like this project, please ⭐ the repo to show support!
+
+<p align="center"> Made with ❤️ by <a href="https://github.com/Neeraj21439">Neeraj Bhardwaj</a> </p> ```
