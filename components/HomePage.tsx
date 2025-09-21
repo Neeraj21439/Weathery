@@ -64,7 +64,7 @@ const HomePage: React.FC<HomePageProps> = ({
             animate={{ scale: 1 }}
             transition={{ duration: 0.5, delay: 0.2 }}
           >
-            Welcome, Weather.com{" "}
+            Welcome, Weathery{" "}
             <motion.span
               animate={{ rotate: [0, 10, -10, 0] }}
               transition={{ duration: 1.5, repeat: Infinity, repeatDelay: 3 }}
@@ -78,7 +78,7 @@ const HomePage: React.FC<HomePageProps> = ({
             animate={{ opacity: 1 }}
             transition={{ duration: 0.7, delay: 0.4 }}
           >
-            Your personalized weather information. Check today's weather, update.
+            Your Personal Weather Companion.
           </motion.p>
         </motion.div>
 
